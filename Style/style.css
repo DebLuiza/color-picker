@@ -1,0 +1,60 @@
+body {
+    margin: 20px;
+    padding: 20px;
+    display: grid;
+    place-items: center;
+    height: 45vh;
+}
+.principal {
+    padding: 20px;
+    height: 250px;
+    width: 250px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background: #040F16;
+    border-radius: 20%;
+    display: grid;
+    place-items: center;
+    color: #fff;
+    font-family: verdana;
+}
+#box {
+    height: 20px;
+    width: 20%;
+    border: none;
+    outline: none;
+    border-radius: 50px;
+    text-align: center;
+}
+#box1 {
+    height: 20px;
+    width: 20%;
+    border: none;
+    outline: none;
+    border-radius: 50px;
+    text-align: center;
+}
+#box2 {
+    height: 20px;
+    width: 20%;
+    border: none;
+    outline: none;
+    border-radius: 50px;
+    text-align: center;
+}
+#hehe{
+    color: #fff;
+    font-family: verdana;
+}
+.principal #red {
+    background: linear-gradient(90deg, #000, red);
+}
+  
+.principal #green {
+    background: linear-gradient(90deg, #000, green);
+}
+  
+.principal #blue {
+    background: linear-gradient(90deg, #000, blue);
+}
+
